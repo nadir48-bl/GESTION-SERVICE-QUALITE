@@ -1,0 +1,36 @@
+Project Name: Cereals and Legumes Quality Management GUI
+Description:
+This program is a graphical user interface (GUI) application developed for managing and monitoring quality-related operations in a cooperative dealing with cereals and legumes. It provides various functionalities through different windows:
+1. Bulletins:
+   - Bulletin de Conformité: Manages conformity reports.
+   - Bulletin Moulin: Deals with mill bulletins.
+   - Bulletin d'Agréage: Handles grading bulletins.
+2. Proces Verbal: Manages procedural documents.
+3. Les Refus: Handles rejected products.
+4. Produits Phytosanitaires: Manages phytosanitary products.
+5. Gestion Stock Legumes Secs: Manages the stock of dry legumes.
+Installation:
+1. Ensure Python 3.x is installed on your system.
+2. Run setup.py 
+3. Install filles_exe\okular-master-1685-windows-cl-msvc2019-x86_64.exe
+4. runfilles_exe\DesktopEditors_x64.exe
+2. Clone or download the project from the GitHub repository: https://github.com/nadir48-bl.
+3. Navigate to the project directory.
+4. Install dependencies by running the following command:
+“pip install -r requirements.txt”
+5. Run the program using the following command:
+python login.pyw
+usage:
+- Launch the program.
+- Navigate through different windows using the provided buttons.
+- Perform the desired operations in each window.
+Contribution Guidelines:
+- Contributions are welcome! Please fork the repository, make changes, and submit a pull request.
+- For major changes, please open an issue first to discuss the proposed changes.
+License:
+This project is licensed under the MIT License. See the LICENSE file for details.
+Author: Belbacha Mohamed Nadir
+Email: nadirrlazi48@gmail.com
+GitHub: https://github.com/nadir48-bl
+Version: 1.2.3
+
